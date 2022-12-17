@@ -1,0 +1,49 @@
+body {
+  border-width: 18px;
+  border-radius: 18px;
+}
+h1 {
+  font-family: monospace;
+  font-size: medium;
+}
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+.btn-group {
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+.row {
+  font-size: 18px;
+  font-weight: normal;
+}
+#button-addon2 {
+  color: grey;
+  background-color: whitesmoke;
+}
+#button-addon2:hover {
+  color: rgb(3, 60, 109);
+  opacity: 80;
+}
+#info {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+.card {
+  margin-top: 275px;
+}
+.card-body {
+  background-color: rgb(192, 214, 253);
+}
+.days {
+  font-weight: bold;
+}
+#icon {
+  position: relative;
+  right: 20px;
+}
+.low {
+  font-style: italic;
+  font-weight: normal;
+  color: grey;
+}
