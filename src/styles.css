@@ -9,6 +9,9 @@ h1 {
 h2 {
   font-family: "Courier New", Courier, monospace;
 }
+h6 {
+  text-align: center;
+}
 .btn-group {
   font-family: "Courier New", Courier, monospace;
   font-weight: bold;
